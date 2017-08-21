@@ -866,6 +866,7 @@ var cnames_active = {
   "try-catch-finally": "c24w.github.io/try-catch-finally.js",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
+  "tsed": "romakita.github.io/ts-express-decorators",
   "tsfp": "zhenwenc.github.io/tsfp", // noCF? (don´t add this in a new PR)
   "tux": "tux.gitbooks.io/docs",
   "tweed": "tweedjs.github.io",
